@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mid:home|Door43 (mid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mid|d43-mid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mid/archive/master.zip|d43-mid.zip]]
+
+**Recent Changes**
+{{changes>ns = mid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mid|Ethnologue data]]
+
